@@ -1,0 +1,9 @@
+C:\Users\ABethlehem\source\repos\EEFrameWork\EEFrameWork\bin\Debug\netcoreapp3.1\EEFrameWork.deps.json
+C:\Users\ABethlehem\source\repos\EEFrameWork\EEFrameWork\bin\Debug\netcoreapp3.1\EEFrameWork.dll
+C:\Users\ABethlehem\source\repos\EEFrameWork\EEFrameWork\bin\Debug\netcoreapp3.1\EEFrameWork.pdb
+C:\Users\ABethlehem\source\repos\EEFrameWork\EEFrameWork\obj\Debug\netcoreapp3.1\EEFrameWork.csprojAssemblyReference.cache
+C:\Users\ABethlehem\source\repos\EEFrameWork\EEFrameWork\obj\Debug\netcoreapp3.1\EEFrameWork.AssemblyInfoInputs.cache
+C:\Users\ABethlehem\source\repos\EEFrameWork\EEFrameWork\obj\Debug\netcoreapp3.1\EEFrameWork.AssemblyInfo.cs
+C:\Users\ABethlehem\source\repos\EEFrameWork\EEFrameWork\obj\Debug\netcoreapp3.1\EEFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\ABethlehem\source\repos\EEFrameWork\EEFrameWork\obj\Debug\netcoreapp3.1\EEFrameWork.dll
+C:\Users\ABethlehem\source\repos\EEFrameWork\EEFrameWork\obj\Debug\netcoreapp3.1\EEFrameWork.pdb

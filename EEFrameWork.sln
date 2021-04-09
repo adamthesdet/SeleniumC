@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEFrameWork", "EEFrameWork\EEFrameWork.csproj", "{6A77D1B8-D2DB-49CC-A0A5-83276CE38BD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EETest", "EETest\EETest.csproj", "{3FD354A0-22C0-4E12-9FC6-6BF71EC8435B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A77D1B8-D2DB-49CC-A0A5-83276CE38BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A77D1B8-D2DB-49CC-A0A5-83276CE38BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A77D1B8-D2DB-49CC-A0A5-83276CE38BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A77D1B8-D2DB-49CC-A0A5-83276CE38BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD354A0-22C0-4E12-9FC6-6BF71EC8435B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD354A0-22C0-4E12-9FC6-6BF71EC8435B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD354A0-22C0-4E12-9FC6-6BF71EC8435B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD354A0-22C0-4E12-9FC6-6BF71EC8435B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD1A59F8-B4C8-4D24-B132-A0CE9B1748A9}
+	EndGlobalSection
+EndGlobal
